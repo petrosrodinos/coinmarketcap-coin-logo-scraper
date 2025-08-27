@@ -1,0 +1,402 @@
+[
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
+    "name": "BTC"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+    "name": "ETH"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
+    "name": "XRP"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+    "name": "USDT"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+    "name": "BNB"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png",
+    "name": "SOL"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+    "name": "USDC"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png",
+    "name": "DOGE"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png",
+    "name": "TRX"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png",
+    "name": "ADA"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/32196.png",
+    "name": "HYPE"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png",
+    "name": "LINK"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/512.png",
+    "name": "XLM"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/20947.png",
+    "name": "SUI"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/29470.png",
+    "name": "USDe"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png",
+    "name": "BCH"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png",
+    "name": "AVAX"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/4642.png",
+    "name": "HBAR"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/3957.png",
+    "name": "LEO"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/2.png",
+    "name": "LTC"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/11419.png",
+    "name": "TON"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/5994.png",
+    "name": "SHIB"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/3635.png",
+    "name": "CRO"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png",
+    "name": "UNI"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/cloud/img/logo/polkadot/Polkadot_Logo_Animation_64x64.gif",
+    "name": "DOT"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png",
+    "name": "DAI"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/11092.png",
+    "name": "BGB"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/328.png",
+    "name": "XMR"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/7278.png",
+    "name": "AAVE"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/24478.png",
+    "name": "PEPE"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/30171.png",
+    "name": "ENA"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/27075.png",
+    "name": "MNT"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/3897.png",
+    "name": "OKB"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/1321.png",
+    "name": "ETC"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/22974.png",
+    "name": "TAO"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/6535.png",
+    "name": "NEAR"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/21794.png",
+    "name": "APT"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/21159.png",
+    "name": "ONDO"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/11841.png",
+    "name": "ARB"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/8916.png",
+    "name": "ICP"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/35697.png",
+    "name": "PI"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/28321.png",
+    "name": "POL"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/36148.png",
+    "name": "USD1"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/20396.png",
+    "name": "KAS"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/4030.png",
+    "name": "ALGO"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/3077.png",
+    "name": "VET"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/3794.png",
+    "name": "ATOM"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/4269.png",
+    "name": "GT"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/34466.png",
+    "name": "PENGU"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/5690.png",
+    "name": "RENDER"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/35626.png",
+    "name": "IP"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/13502.png",
+    "name": "WLD"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/23149.png",
+    "name": "SEI"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/23095.png",
+    "name": "BONK"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/35336.png",
+    "name": "TRUMP"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/2087.png",
+    "name": "KCS"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/7950.png",
+    "name": "FLR"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/2280.png",
+    "name": "FIL"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/33038.png",
+    "name": "SKY"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/3773.png",
+    "name": "FET"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/29210.png",
+    "name": "JUP"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/26081.png",
+    "name": "FDUSD"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/2634.png",
+    "name": "XDC"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/7226.png",
+    "name": "INJ"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/23635.png",
+    "name": "FORM"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/22861.png",
+    "name": "TIA"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/3155.png",
+    "name": "QNT"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/11840.png",
+    "name": "OP"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/27772.png",
+    "name": "PYUSD"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/29270.png",
+    "name": "AERO"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/28081.png",
+    "name": "SPX"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/4847.png",
+    "name": "STX"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/8000.png",
+    "name": "LDO"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/6538.png",
+    "name": "CRV"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/36507.png",
+    "name": "PUMP"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/10603.png",
+    "name": "IMX"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/8526.png",
+    "name": "RAY"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/6719.png",
+    "name": "GRT"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/4705.png",
+    "name": "PAXG"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/10804.png",
+    "name": "FLOKI"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/32684.png",
+    "name": "S"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/7186.png",
+    "name": "CAKE"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/13855.png",
+    "name": "ENS"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/7334.png",
+    "name": "CFX"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/32880.png",
+    "name": "KAIA"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/9481.png",
+    "name": "PENDLE"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/2011.png",
+    "name": "XTZ"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/28752.png",
+    "name": "WIF"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/5176.png",
+    "name": "XAUt"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/33597.png",
+    "name": "FARTCOIN"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/2694.png",
+    "name": "NEXO"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/2416.png",
+    "name": "THETA"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/36462.png",
+    "name": "A"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/1720.png",
+    "name": "IOTA"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/29420.png",
+    "name": "VIRTUAL"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/7080.png",
+    "name": "GALA"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/34104.png",
+    "name": "MORPHO"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/8425.png",
+    "name": "JASMY"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/6210.png",
+    "name": "SAND"
+  },
+  {
+    "url": "https://s2.coinmarketcap.com/static/img/coins/64x64/28541.png",
+    "name": "JTO"
+  }
+]
